@@ -1,0 +1,10 @@
+{
+  "description": "Securely simulate India's electronic voting with AI verification and blockchain for transparent, tamper-resistant election demonstrations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
