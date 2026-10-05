@@ -173,7 +173,6 @@ This project was developed as a practical exploration of:
 🌐 Live Demo
 
 👉 Open the Live Blockchain E-Voting System:
-
-https://blockchain-e-voting-x1lw.onrender.com/
+https://blockchain-e-voting-oktx.onrender.com/
 
 Deployed with Render
